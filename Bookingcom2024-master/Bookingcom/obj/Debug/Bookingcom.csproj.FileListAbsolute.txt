@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Bookingcom2024-master\Bookingcom\bin\Debug\Bookingcom.exe.config
+C:\Users\user\Desktop\Bookingcom2024-master\Bookingcom\bin\Debug\Bookingcom.exe
+C:\Users\user\Desktop\Bookingcom2024-master\Bookingcom\bin\Debug\Bookingcom.pdb
+C:\Users\user\Desktop\Bookingcom2024-master\Bookingcom\obj\Debug\Bookingcom.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Bookingcom2024-master\Bookingcom\obj\Debug\Bookingcom.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Bookingcom2024-master\Bookingcom\obj\Debug\Bookingcom.MainForm.resources
+C:\Users\user\Desktop\Bookingcom2024-master\Bookingcom\obj\Debug\Bookingcom.Properties.Resources.resources
+C:\Users\user\Desktop\Bookingcom2024-master\Bookingcom\obj\Debug\Bookingcom.RoomForm.resources
+C:\Users\user\Desktop\Bookingcom2024-master\Bookingcom\obj\Debug\Bookingcom.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Bookingcom2024-master\Bookingcom\obj\Debug\Bookingcom.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Bookingcom2024-master\Bookingcom\obj\Debug\Bookingcom.exe
+C:\Users\user\Desktop\Bookingcom2024-master\Bookingcom\obj\Debug\Bookingcom.pdb
+C:\Users\user\Desktop\Bookingcom2024-master\Bookingcom\obj\Debug\Bookingcom.RestForm.resources
